@@ -1,0 +1,22 @@
+{
+  "0": {
+    "IPAddress": "10.1.1.2",
+    "HWAddress": "00:0c:29:af:cd:27",
+    "Interface": "ens160"
+  },
+  "1": {
+    "IPAddress": "10.1.2.2",
+    "HWAddress": "00:0c:29:e1:e6:26",
+    "Interface": "ens192"
+  },
+  "2": {
+    "IPAddress": "10.1.1.1",
+    "HWAddress": "00:0c:29:74:99:3b",
+    "Interface": "ens160"
+  },
+  "3": {
+    "IPAddress": "10.1.2.1",
+    "HWAddress": "00:0c:29:74:99:45",
+    "Interface": "ens192"
+  }
+}
